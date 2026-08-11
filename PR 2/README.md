@@ -230,25 +230,11 @@ hospital-patient-analytics-dashboard/
 
 ---
 
-## ⚙️ How to Reproduce
 
-1. **Download the dataset** from Kaggle:
-   [healthcare-dataset by Prasad Patil](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/hospital-patient-analytics-dashboard.git
-   ```
-3. Place `healthcare_dataset.csv` inside the `data/` folder (or update the source path in
-   Power BI's **Data Source Settings**).
-4. Open `PR2_Hospital_Analytics.pbix` in **Power BI Desktop**.
-5. Click **Refresh** to re-run the Power Query pipeline against the local file.
-6. Explore the report using the slicers on each page.
-
----
 
 ## 🎥 Video Walkthrough
 
-> 📹 **[Watch the full walkthrough here](#)** *(replace `#` with your Google Drive / YouTube link)*
+> 📹https://www.loom.com/share/4f72b9242c4d4e2da4c8be047e2ccdf7
 
 A 5–10 minute recording (face + screen) walking through every transformation step, the data
 model, and all three dashboard pages.

@@ -235,7 +235,7 @@ All calculated columns are evaluated **row-by-row at refresh (row context)**; al
 
 ## 🎥 Video Walkthrough
 
-📺(#)](https://www.loom.com/share/fb28242b52904792aae5541936897ec7)
+📺(#)https://www.loom.com/share/fb28242b52904792aae5541936897ec7
 
 ---
 

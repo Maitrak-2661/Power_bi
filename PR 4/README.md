@@ -235,9 +235,7 @@ All calculated columns are evaluated **row-by-row at refresh (row context)**; al
 
 ## 🎥 Video Walkthrough
 
-A 5–10 minute recorded walkthrough (face + screen) explaining row context vs. filter context, `CALCULATE`, `ALL()`, `TOTALYTD`, `RANKX`, `RELATED()`, and a live filter-context demo across all 3 report pages.
-
-📺 **Watch here:** [`<insert Google Drive / YouTube unlisted link here>`](#)
+📺(#)](https://www.loom.com/share/fb28242b52904792aae5541936897ec7)
 
 ---
 
@@ -278,7 +276,7 @@ HR-Workforce-Analytics-PR4/
 - [x] 3 report pages: Workforce Overview · Attrition Analysis · Compensation
 - [x] Filter context demonstrated live · Active + Terminated = Total validated
 - [x] Model View screenshot captured
-- [ ] Video recorded (face + screen, 5–10 min) & link pasted above
+- [x] Video recorded (face + screen, 5–10 min) & link pasted above
 - [x] Theme applied consistently across all pages
 
 ---
